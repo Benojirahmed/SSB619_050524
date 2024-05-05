@@ -1,0 +1,30 @@
+table{
+    border: 2px solid #000000;
+}
+th, td {
+    border: 1px solid #000000;
+}
+
+.header{
+    height: 100px;
+    background-color: red;
+}
+.container{
+    overflow: hidden;
+}
+.blog{
+    height: 150px;
+    width: 70%;
+    float: left;
+    background-color: black;
+}
+.contact{
+    height: 150px;
+    float: right;
+    width: 30%;
+    background-color: green;
+}
+.footer{
+    height: 100px;
+    background-color: yellow;
+}
